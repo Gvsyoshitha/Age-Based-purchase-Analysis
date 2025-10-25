@@ -44,9 +44,9 @@ It was built using a real-world e-commerce dataset and aims to identify key tren
 ---
 
 ## 👩‍💻 Author
-**HARINI HARIHARAN**  
-📧 harinihariharan0107@gmail.com
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/harini-hariharan-78020a248/)
+**VASAVI YOSHITHA**  
+📧 gvyoshitha@gmail.com
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/yoshi25/)
 
 ---
 
